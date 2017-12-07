@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="zechs6437" APIVersion="8" Name="SimpleFPSMeter" Description="A simple FPS meter." Version="1.0">
+    <Script Name="SimpleFPSMeter.lua"/>
+    <Form Name="SimpleFPSMeter.xml"/>
+</Addon>
