@@ -1,0 +1,2 @@
+# SimpleFPSMeter
+SimpleFPSMeter for Wildstar
